@@ -25,6 +25,7 @@
   "notification.delete.success": "檔案已刪除",
   "notification.dropFile.success": "您的檔案已上傳",
   "notification.dropFiles.success": "{number} 個檔案已上傳",
+  "Upload.status.empty": "檔案為空",
   "Upload.status.sizeLimit": "{file}大於配置的限制大小",
-  "Upload.status.disabled" : "文件上傳已禁用"
+  "Upload.status.disabled": "文件上傳已禁用"
 }
